@@ -10,8 +10,24 @@ You’ll need a Kubernetes cluster to run against. You can use [KIND](https://si
 Deploy the operator to the cluster:
 ```console
 $ make deploy
-some output
+first line of output
+second line of output
 ```
+
+
+```sh
+$ make deploy
+first line of output
+second line of output
+```
+
+```bash
+$ make deploy
+first line of output
+second line of output
+```
+
+
 
 Alternatively, you can deploy the operator using OLM:
 
