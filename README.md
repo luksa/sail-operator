@@ -14,7 +14,7 @@ first line of output
 second line of output
 ```
 
-```bash session
+```bash-session
 $ make deploy
 first line of output
 second line of output
