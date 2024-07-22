@@ -14,6 +14,12 @@ first line of output
 second line of output
 ```
 
+```console
+# make deploy
+first line of output
+second line of output
+```
+
 
 ```sh
 $ make deploy
